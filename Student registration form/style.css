@@ -1,0 +1,27 @@
+body {
+    background-color: #4d308c;
+    
+  }
+  
+  .card {
+    background-color: #3ca4a7d4;
+  }
+  
+  .btn-primary {
+    background-color: #01770b;
+    border-color: #047000;
+  }
+  #myVideo {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(46, 9, 209, 0.3));
+    position: fixed;
+    
+ }
+  
+  .text-center-mb-4{
+    font: bold;
+    font-style: oblique;
+    
+  }
+ 
